@@ -9,7 +9,7 @@ if (height>=3):
     else:
         print("pay rs 500")
 else:
-    print("You csnnot ride")
+    print("You cannot ride")
 
 print("Bye....")
 
