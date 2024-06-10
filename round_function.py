@@ -12,3 +12,4 @@ print(round(665,-1))  #Nearest even number
 print(round(675,-1))
 print(round(-8/3))
 print(round(-1.5))
+print(round(7.45))

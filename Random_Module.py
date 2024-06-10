@@ -3,7 +3,7 @@ import random
 
 #a=random.randrange(1,6)  #1 is included but not 6
 
-#a=random.uniform(1,4)
+a=random.uniform(1,4)
 
 #Dice
 list=[1,2,3,4,5,6]
